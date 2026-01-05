@@ -1,0 +1,12 @@
+https://github.com/charmbracelet/bubbles
+
+https://github.com/charmbracelet/bubbletea
+
+
+https://github.com/shirou/gopsutil?tab=readme-ov-file
+
+https://github.com/TheZoraiz/ascii-image-converter
+
+
+
+https://github.com/charmbracelet/bubbletea/tree/main/examples
